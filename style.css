@@ -1,0 +1,100 @@
+
+.nav-color{
+    background-color: black;
+}
+.backg-footer{
+    background-color: black;
+}
+i{
+    color:white;
+    margin:10px;
+}
+
+i:hover{
+    opacity: 0.50;
+}
+
+.card-img-top:hover{
+    background-color:black;
+    transform: scale(.85);
+    transition: transform 2.3s ease;
+}
+.icon a i{
+    font-size: 20px;
+}
+
+.ending-iliteracy{
+    position: relative;
+    bottom: -20px;
+    right:2px;
+   color: gray;
+    font-size: 10px;
+}
+
+.designer-tag i{
+    font-size: 20px;
+}
+.carousel{
+    margin-bottom: 4rem;
+}
+
+.carousel-caption{
+    bottom: 3rem;
+    z-index: 10;
+}
+.carousel-item{
+    height: 40rem;
+    max-width:100vw;
+    background-size:cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.welcome-carousel-image1{
+    box-shadow: inset 0 0 0 100vw rgba(0,0,0, 0.3);
+    background-image: url('images/carouselimage1.svg');
+}
+
+.welcome-carousel-image2{
+    box-shadow: inset 0 0 0 100vw rgba(0,0,0, 0.3);
+    background-image: url('images/carouselimage2.svg');
+}
+
+.welcome-carousel-image3{
+    box-shadow: inset 0 0 0 100vw rgba(0,0,0, 0.3);
+    background-image: url('images/carouselimage3.svg');
+}
+
+.jumbotron{
+    height:50vh;
+    
+} 
+
+.jumbotron-donate{
+    background: url('images/jtimage1.svg') no-repeat fixed;
+    background-size: cover;
+    background-color: black;
+}
+
+.jumbotron-fiction {
+    background: url('images/fictionjtron.svg') no-repeat fixed;
+    background-size: cover;
+    background-color:black;
+}
+
+.jumbotron-story {
+    background: url('images/storyjtron.svg') no-repeat fixed;
+    background-size: cover;
+    background-color:black;
+}
+
+.jumbotron-novel {
+    background: url('images/noveljtron.svg') no-repeat fixed;
+    background-size: cover;
+    background-color:black;
+}
+
+.jumbotron-religion{
+    background: url('images/religionjtron.svg') no-repeat fixed;
+    background-size: cover;
+    background-color:black;
+}

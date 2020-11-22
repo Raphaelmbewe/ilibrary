@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="297mm" height="210mm" version="1.1" viewBox="0 0 1052.3622 744.09448" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -308.27)" fill-rule="evenodd">
+  <rect x="-49.126" y="266.19" width="1209.1" height="906.12" ry="25.769" fill="#000058" stroke="#000080" stroke-linecap="square" stroke-width="3.1079"/>
+  <g transform="translate(-55.738 219.67)">
+   <g transform="matrix(.70573 .37097 -.37097 .70573 193.09 -62.888)" stroke-linecap="square">
+    <ellipse cx="526.18" cy="591.8" rx="390.56" ry="100.56" fill="#10cc00" stroke="#000" stroke-width="4"/>
+    <ellipse cx="526.18" cy="581.66" rx="254.79" ry="65.602" fill="#fc0" stroke="#ff0" stroke-dasharray="10, 20" stroke-width="5"/>
+    <ellipse cx="526.18" cy="576.08" rx="218.56" ry="56.275" fill="#10cc00" stroke="#000" stroke-width="3"/>
+    <path transform="scale(1,-1)" d="m640.13-590.3a113.95 200.75 0 0 1 -56.973 173.86 113.95 200.75 0 0 1 -113.95 -1e-5 113.95 200.75 0 0 1 -56.973 -173.86l113.95 1e-5z" fill="#000080" stroke="#000" stroke-width="3.6822"/>
+   </g>
+   <path d="m537.55 677.11 462.96 170.69" fill="#0f0" stroke="#0f0" stroke-width="3"/>
+   <path d="m485.37 686.96 484.69 186.77" fill="#0f0" stroke="#0f0" stroke-width="3"/>
+   <path d="m558.89 651.23 452.76 157.73" fill="#0f0" stroke="#0f0" stroke-width="3"/>
+   <path d="m529.15 592.08 484.43 159.68" fill="#0f0" stroke="#0f0" stroke-width="3"/>
+   <path d="m352.59 655.69 543.03 221.91" fill="#0f0" stroke="#0f0" stroke-width="3"/>
+   <path d="m514.41 552.75 444.65 142.41" fill="#000080" stroke="#000080" stroke-width="3"/>
+   <path d="m502.84 490.58 426.05 127.63" fill="#000080" stroke="#000080" stroke-width="3"/>
+   <path d="m488.52 448.21 415.72 118.87" fill="#000080" stroke="#000080" stroke-width="3"/>
+  </g>
+  <path d="m638.69 483.18-34.014 57.993-9.2901-66.587-65.665-14.428 60.457-29.412-6.5697-66.91 46.655 48.409 61.605-26.924-31.623 59.331 44.644 50.27z" fill="#cc9004" stroke="#cc9004" stroke-linecap="square" stroke-width="3"/>
+  <path transform="matrix(.29202 .95641 -.95641 .29202 1269.7 -292.9)" d="m852.95 731.58-25.514 43.501-6.9687-49.948-49.257-10.823 45.35-22.062-4.928-50.19 34.996 36.313 46.211-20.196-23.721 44.505 33.488 37.708z" fill="#cc9004" stroke="#cc9004" stroke-linecap="square" stroke-width="2.2503"/>
+  <path transform="matrix(-.53292 1.5341 -1.5341 -.53292 1700.4 -442.97)" d="m852.95 731.58-25.514 43.501-6.9687-49.948-49.257-10.823 45.35-22.062-4.928-50.19 34.996 36.313 46.211-20.196-23.721 44.505 33.488 37.708z" fill="#cc9004" stroke="#cc9004" stroke-linecap="square" stroke-width="2.2503"/>
+  <path transform="matrix(-.29768 .85691 -.85691 -.29768 903.37 566.42)" d="m852.95 731.58-25.514 43.501-6.9687-49.948-49.257-10.823 45.35-22.062-4.928-50.19 34.996 36.313 46.211-20.196-23.721 44.505 33.488 37.708z" fill="#cc9004" stroke="#cc9004" stroke-linecap="square" stroke-width="2.2503"/>
+  <path transform="matrix(.44094 1.2552 -1.2552 .44094 805.19 -382.61)" d="m852.95 731.58-25.514 43.501-6.9687-49.948-49.257-10.823 45.35-22.062-4.928-50.19 34.996 36.313 46.211-20.196-23.721 44.505 33.488 37.708z" fill="#cc9004" stroke="#cc9004" stroke-linecap="square" stroke-width="2.2503"/>
+  <path transform="matrix(-.098531 .58781 -.58781 -.098531 1115.3 663.99)" d="m852.95 731.58-25.514 43.501-6.9687-49.948-49.257-10.823 45.35-22.062-4.928-50.19 34.996 36.313 46.211-20.196-23.721 44.505 33.488 37.708z" fill="#cc9004" stroke="#cc9004" stroke-linecap="square" stroke-width="2.2503"/>
+  <path transform="matrix(.079547 .97986 -.97986 .079547 1648.1 59.797)" d="m852.95 731.58-25.514 43.501-6.9687-49.948-49.257-10.823 45.35-22.062-4.928-50.19 34.996 36.313 46.211-20.196-23.721 44.505 33.488 37.708z" fill="#cc9004" stroke="#cc9004" stroke-linecap="square" stroke-width="2.2503"/>
+  <path transform="matrix(.050072 1.3979 -1.3979 .050072 1868.2 -723.14)" d="m852.95 731.58-25.514 43.501-6.9687-49.948-49.257-10.823 45.35-22.062-4.928-50.19 34.996 36.313 46.211-20.196-23.721 44.505 33.488 37.708z" fill="#cc9004" stroke="#cc9004" stroke-linecap="square" stroke-width="2.2503"/>
+ </g>
+</svg>
