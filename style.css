@@ -104,3 +104,9 @@ i:hover{
     background-size: cover;
     background-color:black;
 }
+
+.jumbotron-allbooks{
+    background: url('images/allbooksjtron.svg') no-repeat fixed;
+    background-size: cover;
+    background-color:black;
+}
