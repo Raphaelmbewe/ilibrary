@@ -110,3 +110,10 @@ i:hover{
     background-size: cover;
     background-color:black;
 }
+
+
+.book-image:hover{
+    opacity: 0.50;
+    transform: scale(.85);
+    transition: transform 2.3s ease;
+}
