@@ -98,3 +98,9 @@ i:hover{
     background-size: cover;
     background-color:black;
 }
+
+.jumbotron-school {
+    background: url('images/schooljtron.svg') no-repeat fixed;
+    background-size: cover;
+    background-color:black;
+}
